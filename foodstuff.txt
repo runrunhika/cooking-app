@@ -1,0 +1,12 @@
+drop table foodstuff;
+create table foodstuff (id int, category varchar(64), stuff1 varchar(64), stuff2 varchar(64), stuff3 varchar(64), stuff4 varchar(64), stuff5 varchar(64), stuff6 varchar(64),  stuff7 varchar(64), stuff8 varchar(64), stuff9 varchar(64), stuff10 varchar(64), stuff11 varchar(64), stuff12 varchar(64), stuff13 varchar(64), stuff14 varchar(64), stuff15 varchar(64), stuff16 varchar(64), stuff17 varchar(64), stuff18 varchar(64), stuff19 varchar(64), stuff20 varchar(64), stuff21 varchar(64), stuff22 varchar(64),  stuff23 varchar(64), stuff24 varchar(64), stuff25 varchar(64), stuff26 varchar(64), stuff27 varchar(64), stuff28 varchar(64), stuff29 varchar(64), stuff30 varchar(64), stuff31 varchar(64), stuff32 varchar(64));
+
+insert into foodstuff values (1, '肉', '豚肉', '牛肉', '鶏肉', '豚挽肉', '牛挽肉', '鶏挽肉', 'ウィンナー', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''); 
+
+insert into foodstuff values (2, '魚', 'マグロ', 'イワシ', 'アジ', 'タラ', 'サケ', 'カツオ', 'サワラ', 'フグ', 'アンコウ', 'キス', 'ウナギ', 'アナゴ', 'ヒラメ', 'カレイ', 'イカ', 'タコ', 'カニ', 'エビ', 'アサリ', 'シジミ', 'ハマグリ', 'サザエ', '', '', '', '', '', '', '', '', '', ''); 
+
+insert into foodstuff values (3, '野菜', '白菜', 'キャベツ', '玉ねぎ', '長ネギ', '人参', 'ピーマン', 'じゃがいも', 'ニンニク', '唐辛子', 'ニラ', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''); 
+
+insert into foodstuff values (4, '麺', 'そば', 'うどん', 'ラーメン', 'スパゲッティ', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''); 
+
+insert into foodstuff values (5, 'その他', '卵', '紅生姜', 'うどん粉', '小麦粉', 'カレールー', 'パン粉', 'ケチャップ', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''); 
