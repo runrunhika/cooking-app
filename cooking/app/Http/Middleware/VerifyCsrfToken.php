@@ -12,7 +12,6 @@ class VerifyCsrfToken extends Middleware
      * @var array
      */
     protected $except = [
-        'http://cooking.upbrightinc.com/uploadmenu_'
-        // "http://cooking.gohannozikan.xyz/uploadmenu_
+        'http://cooking.gohannozikan.xyz/uploadmenu_'
     ];
 }
