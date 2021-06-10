@@ -6,5 +6,5 @@ ixlEd903)0ljdsDgd
 mysql -u root -p
 Pass_Mizuno20210325
 
-http://gohannozikan.xyz
+http://cooking.gohannozikan.xyz
 
